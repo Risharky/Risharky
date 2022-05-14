@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo 
 - 👀 I’m interested in Data science, GIS and entrepreneurship. 
-- 🌱 I’m currently learning Data science in python and R (IBM data science certificate)
+- 🌱 I’m currently learning Data science in python and R (I have a IBM data science certificate)
 - 💞️ I’m looking to collaborate on GIS projects with data science or entrepreneurship.
 - 📫 How to reach me https://risharky/github.io
 
