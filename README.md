@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ricardo <br>👀 I’m interested in Data science, GIS and entrepreneurship. <br>🌱 I’m currently learning Data science in python, R and Julia (I have a IBM data science certificate) <br>💞️ I’m looking to collaborate on GIS projects with data science or entrepreneurship. <br>📫 How to reach me https://risharky/github.io
+👋 Hi, I’m Ricardo <br>👀 I’m interested in Data science, GIS and entrepreneurship. <br>🌱 I’m currently learning Data science in python, R and Julia (I have a IBM data science certificate) <br> :soon: I have started learning functional programming with scala.<br> :rocket: I’m looking to collaborate on GIS projects with data science or entrepreneurship. <br>📫 How to reach me https://risharky/github.io
 
 
 ## 🌐 Socials:
